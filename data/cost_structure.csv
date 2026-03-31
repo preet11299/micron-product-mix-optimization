@@ -1,0 +1,9 @@
+product_id,product_name,variable_cost_per_gb_usd,fixed_cost_allocation_pct,capex_intensity,rd_intensity_pct,yield_rate_pct,wafer_utilization_factor
+P001,HBM3E,6.75,20.0,Very High,25.0,75.0,0.6
+P002,DDR5_Server,2.48,15.0,Medium,15.0,92.0,1.0
+P003,DDR5_PC,2.38,12.0,Low,10.0,95.0,1.0
+P004,LPDDR5_Mobile,2.93,10.0,Medium,12.0,93.0,0.9
+P005,LPDDR5_Server,2.90,8.0,Medium,15.0,90.0,0.85
+P006,NAND_DataCenter_SSD,0.086,18.0,High,18.0,88.0,0.95
+P007,NAND_Client_SSD,0.078,10.0,Medium,10.0,92.0,1.0
+P008,NAND_Mobile,0.066,7.0,Low,8.0,94.0,1.0
