@@ -1,0 +1,8 @@
+constraint_id,constraint_name,constraint_type,min_value,max_value,unit,description
+C001,Total_Capacity,equality,100.0,100.0,percent,Total capacity allocation must equal 100%
+C002,HBM_Max_Capacity,upper_bound,0.0,25.0,percent,HBM manufacturing complexity limits max allocation
+C003,DRAM_Min_Allocation,lower_bound,60.0,100.0,percent,Minimum DRAM allocation to maintain market position
+C004,NAND_Min_Allocation,lower_bound,15.0,100.0,percent,Minimum NAND allocation for customer commitments
+C005,DDR5_PC_Min,lower_bound,8.0,100.0,percent,Minimum PC DRAM to maintain OEM relationships
+C006,Mobile_Min,lower_bound,5.0,100.0,percent,Minimum mobile allocation for smartphone OEMs
+C007,DataCenter_Min,lower_bound,35.0,100.0,percent,Minimum data center products (HBM + Server DRAM + DC SSD)
