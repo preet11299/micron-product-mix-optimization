@@ -1,0 +1,9 @@
+Product,Category,Current_Allocation_%,Optimal_Allocation_%,Change_%,Gross_Margin_%,Revenue_Contribution_$B,Profit_Contribution_$B
+HBM3E,DRAM,15.0,25.0,10.0,55.00000000000001,13.333,7.333
+DDR5_Server,DRAM,25.0,32.5,7.5,38.0,13.0,4.94
+DDR5_PC,DRAM,15.0,8.0,-7.0,32.0,2.667,0.853
+LPDDR5_Mobile,DRAM,12.0,11.69,-0.31,35.0,3.896,1.364
+LPDDR5_Server,DRAM,5.0,7.81,2.81,42.0,2.5,1.05
+NAND_DataCenter_SSD,NAND,15.0,15.0,0.0,28.000000000000004,4.5,1.26
+NAND_Client_SSD,NAND,8.0,0.0,-8.0,22.0,0.0,0.0
+NAND_Mobile,NAND,5.0,0.0,-5.0,18.0,0.0,0.0
